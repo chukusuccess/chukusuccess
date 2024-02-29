@@ -34,8 +34,9 @@
 - [Glowing Cards](https://glowingcards.netlify.app/) that glow when you hover. 👈 Go and try it out!
 - [VS-Code extension](https://chukusuccess.work) for the devs who suffer burnouts, I published this for us. Watch out for more features in new versions.
 - [Codematic quizzer](https://codematic-quizzer.vercel.app/) app for testing your knowledge. 👈 Try it out!
-- [iYield searchbar](https://iyield-searchbar.vercel.app/) which does complex search. look at my [documentation](https://iyield-searchbar.vercel.app/). Good stuff. 🥹
-- [NextGen Patients(Hackathon)](https://next-gen-patients.vercel.app/) hackathon project for appwrite.
+- [iYield searchbar](https://iyield-searchbar.vercel.app/) which does complex search. look at my [documentation](https://github.com/chukusuccess/iYield-searchbar/wiki). Good stuff. 🥹
+- [NextGen Patients(Hackathon)](https://next-gen-patients.vercel.app/) open-source hackathon project for appwrite.
+- [NextGen Doctors(Hackathon)](https://nextgen-doctors.vercel.app/) standing as the doctors-side of NextGen Patients.
 - [Impact Summit](https://impactsummit.network/) site built as a means to show my contribution to the Public Goods Network (PGN) for their Local & Global impact.
 
 
