@@ -37,7 +37,7 @@
 - [iYield searchbar](https://iyield-searchbar.vercel.app/) which does complex search. look at my [documentation](https://github.com/chukusuccess/iYield-searchbar/wiki). Good stuff. 🥹
 - [NextGen Patients(Hackathon)](https://next-gen-patients.vercel.app/) open-source hackathon project for appwrite.
 - [NextGen Doctors(Hackathon)](https://nextgen-doctors.vercel.app/) standing as the doctors-side of NextGen Patients.
-- [Impact Summit](https://impactsummit.network/) site built as a means to show my contribution to the Public Goods Network (PGN) for their Local & Global impact.
+- [Impact Summit](https://impactsummit.network/) site built as a means to show my support to the Public Goods Network (PGN), GreenPill Nigeria chapter.
 
 
 
