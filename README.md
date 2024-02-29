@@ -32,7 +32,7 @@
 - [Analytics Dashboard](https://analytics-dashboard-wine.vercel.app/) with full responsiveness, beautiful layout, and a custom bar graph. I went all out on this hackathon.
 - [Shopify onboarding page rework (Hackathon)](https://shopify-ct.netlify.app/) beautifully done with accessibility for mouse, screen reader, and keyboard users.
 - [Glowing Cards](https://glowingcards.netlify.app/) that glow when you hover. 👈 Go and try it out!
-- [VS-Code extension](https://chukusuccess.work) for the devs who suffer burnouts, I published this for us. Watch out for more features in new versions.
+- [VS-Code extension](https://marketplace.visualstudio.com/items?itemName=ChukuSuccess.coding-break-reminder) for the devs who suffer burnouts, I published this for us. Watch out for more features in new versions.
 - [Codematic quizzer](https://codematic-quizzer.vercel.app/) app for testing your knowledge. 👈 Try it out!
 - [iYield searchbar](https://iyield-searchbar.vercel.app/) which does complex search. look at my [documentation](https://github.com/chukusuccess/iYield-searchbar/wiki). Good stuff. 🥹
 - [NextGen Patients(Hackathon)](https://next-gen-patients.vercel.app/) open-source hackathon project for appwrite.
