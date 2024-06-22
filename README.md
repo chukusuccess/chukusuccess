@@ -4,7 +4,7 @@
 
 - 💬 Ask me about: **Web Development**
 - 📫 How to reach me: **successchuku5@gmail.com**
-- 📄 Portfolio: [Chuku Success](https://chukusuccess.work)
+- 📄 Portfolio: [Chuku Success](https://successchuku.netlify.app)
 
 ## 🛠 My Tech Stack
 
@@ -29,7 +29,7 @@
 
 ## 💻 10 personal projects I love ❤️
 
-- [My Portfolio](https://chukusuccess.work) obviously ✨
+- [My Portfolio](https://successchuku.netlify.app) obviously ✨
 - [Analytics Dashboard](https://analytics-dashboard-wine.vercel.app/) with full responsiveness, beautiful layout, and a custom bar graph. I went all out on this hackathon.
 - [Shopify onboarding page rework (Hackathon)](https://shopify-ct.netlify.app/) beautifully done with accessibility for mouse, screen reader, and keyboard users.
 - [Glowing Cards](https://glowingcards.netlify.app/) that glow when you hover. 👈 Go and try it out!
