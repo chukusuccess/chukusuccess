@@ -27,7 +27,7 @@
 -->
 
 
-## 💻 10 personal projects I love ❤️
+## 💻 8 personal projects I love ❤️
 
 - [My Portfolio](https://successchuku.netlify.app) obviously ✨
 - [Analytics Dashboard](https://analytics-dashboard-wine.vercel.app/) with full responsiveness, beautiful layout, and a custom bar graph. I went all out on this hackathon.
@@ -36,8 +36,6 @@
 - [VS-Code extension](https://marketplace.visualstudio.com/items?itemName=ChukuSuccess.coding-break-reminder) for the devs who suffer burnouts, I published this for us. Watch out for more features in new versions.
 - [Codematic quizzer](https://codematic-quizzer.vercel.app/) app for testing your knowledge. 👈 Try it out!
 - [iYield searchbar](https://iyield-searchbar.vercel.app/) which does complex search. look at my [documentation](https://github.com/chukusuccess/iYield-searchbar/wiki). Good stuff. 🥹
-- [NextGen Patients(Hackathon)](https://next-gen-patients.vercel.app/) open-source hackathon project for appwrite.
-- [NextGen Doctors(Hackathon)](https://nextgen-doctors.vercel.app/) standing as the doctors-side of NextGen Patients.
 - [Impact Summit](https://impactsummit.network/) site built as a means to show my support to the Public Goods Network (PGN), GreenPill Nigeria chapter.
 
 
