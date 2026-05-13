@@ -1,42 +1,195 @@
-# Hello 👋
+# Hi, I'm Success Chuku 👋
 
-## 👨‍💻 Umm.. Need my help?
+I'm a **Frontend & Mobile Software Engineer** with **6+ years of experience** building production-ready web and mobile applications using **Next.js, React, TypeScript, React Native Expo, TailwindCSS, and modern API-driven architectures**.
 
-- 💬 Ask me about: **Web Development**
-- 📫 How to reach me: **successchuku5@gmail.com**
-- 📄 Portfolio: [Chuku Success](https://successchuku.netlify.app)
+---
 
-## 🛠 My Tech Stack
+## 🚀 What I Do
 
-- **Frontend**: ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white) ![Ant Design](https://img.shields.io/badge/-Ant%20Design-0170FE?style=flat&logo=ant-design&logoColor=white)
- ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-- **Backend**: ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
- ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![Appwrite](https://img.shields.io/badge/-Appwrite-FF6859?style=flat&logo=appwrite&logoColor=white)
+- Build responsive, production-grade web apps with **Next.js, React, TypeScript, and TailwindCSS**
+- Develop cross-platform mobile apps with **React Native Expo**
+- Integrate REST APIs, authentication flows, role-based access, forms, dashboards, and realtime features
+- Ship Android and iOS apps from development to store release
+- Work closely with Figma designs, backend teams, product owners, and QA
+- Mentor junior developers and help teams deliver faster with cleaner frontend architecture
 
+---
 
-- **Tools & Platforms**: ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode) ![pgAdmin](https://img.shields.io/badge/-pgAdmin-4169E1?style=flat)
- ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white) ![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat&logo=trello&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+## 🧰 Tech Stack
 
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Ant Design](https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
 
-<!-- 
+### Mobile
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo)
 
-## 📈 GitHub Stats
+### Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=chukusuccess&show_icons=true&theme=radical)
+### Tools & Workflow
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![AWS Amplify](https://img.shields.io/badge/AWS%20Amplify-FF9900?style=for-the-badge&logo=awsamplify&logoColor=white)
 
--->
+---
 
+## 🏗️ Recent Work
 
-## 💻 8 personal projects I love ❤️
+### Verify — Regulatory & Supply Chain Web Platform
+**Lead Frontend Developer**
 
-- [My Portfolio](https://successchuku.netlify.app) obviously ✨
-- [Analytics Dashboard](https://analytics-dashboard-wine.vercel.app/) with full responsiveness, beautiful layout, and a custom bar graph. I went all out on this hackathon.
-- [Shopify onboarding page rework (Hackathon)](https://shopify-ct.netlify.app/) beautifully done with accessibility for mouse, screen reader, and keyboard users.
-- [Glowing Cards](https://glowingcards.netlify.app/) that glow when you hover. 👈 Go and try it out!
-- [VS-Code extension](https://marketplace.visualstudio.com/items?itemName=ChukuSuccess.coding-break-reminder) for the devs who suffer burnouts, I published this for us. Watch out for more features in new versions.
-- [Codematic quizzer](https://codematic-quizzer.vercel.app/) app for testing your knowledge. 👈 Try it out!
-- [iYield searchbar](https://iyield-searchbar.vercel.app/) which does complex search. look at my [documentation](https://github.com/chukusuccess/iYield-searchbar/wiki). Good stuff. 🥹
-- [Impact Summit](https://impactsummit.network/) site built as a means to show my support to the Public Goods Network (PGN), GreenPill Nigeria chapter.
+A multi-dashboard web platform built for regulatory, manufacturer, brand manager, supply chain, and administrator workflows.
 
+Worked on:
 
+- FCCPC dashboard
+- Manufacturer dashboard
+- Brand manager dashboard
+- Supply chain dashboard
+- Regulator dashboard
+- Verify landing page
+- Role-based authentication flows
+- Complex forms and validation
+- API integrations across hundreds of endpoints
+- UI implementation from Figma designs
+- Frontend mentoring for junior developers
 
+**Stack:** Next.js, TypeScript, TailwindCSS, Ant Design, Axios, TanStack Query, Sentry, Jest
+
+---
+
+### Digicare — Medical Admin Dashboard
+**Lead Frontend Developer**
+
+A healthcare software dashboard for managing medical/admin workflows.
+
+Worked on:
+
+- Admin dashboard interfaces
+- API integrations
+- Authentication and protected routes
+- Form-heavy workflows
+- UI implementation from Figma
+- Mentoring junior frontend developers
+
+**Stack:** Next.js, TypeScript, TailwindCSS, Ant Design, Axios, TanStack Query, Sentry, Jest
+
+---
+
+### Aligncare — Healthcare Mobile App
+**Solo Fullstack Developer**
+
+Built and shipped a healthcare mobile app and landing page from scratch.
+
+Worked on:
+
+- Landing page and SEO
+- Cross-platform mobile app for Android and iOS
+- App store publishing
+- AI-powered text summary
+- AI audio transcription features
+- Supabase backend integration
+- Mobile UI implementation
+- Error monitoring and testing setup
+
+**Impact:** 1,000+ users across app stores
+
+**Stack:** Next.js, React Native Expo, TypeScript, Supabase, TailwindCSS, Sentry, Jest
+
+---
+
+## 📱 Personal Projects
+
+### Candy Hunt — Emojis
+A cross-platform mobile game built with React Native Expo.
+
+What makes it interesting:
+
+- Built without a game engine
+- Custom JavaScript-based game logic engine
+- Performance optimization for smooth mobile gameplay
+- Published on Android and iOS
+
+**Stack:** React Native Expo, TypeScript, JavaScript
+
+---
+
+### Yourself — Daily Affirmations
+An AI-powered daily affirmation mobile app that gives users a fresh positive message every morning.
+
+What makes it interesting:
+
+- AI prompt architecture for high-quality affirmations
+- Optimized output using a lightweight Gemini model
+- Built and published as a solo developer
+
+**Stack:** React Native Expo, TypeScript, AI Integration
+
+---
+
+## 💼 Experience Highlights
+
+- 6+ years building web and mobile applications
+- Lead frontend experience on production SaaS-style platforms
+- Experience building healthcare, logistics, regulatory, and mobile consumer apps
+- Shipped Android and iOS apps with React Native Expo
+- Strong experience with dashboards, authentication, API integrations, forms, and UI systems
+- Comfortable working remotely with product, backend, QA, and design teams
+- Experienced with async communication, Git workflows, code reviews, and agile tools
+
+---
+
+## 🎯 Current Focus
+
+I'm currently open to **international remote opportunities** as a:
+
+- Frontend Developer
+- Next.js Developer
+- React Developer
+- React Native Developer
+- Mobile Developer
+- Frontend Software Engineer
+- TypeScript Developer
+
+I'm especially interested in roles involving:
+
+- Next.js applications
+- React Native Expo mobile apps
+- SaaS dashboards
+- Healthcare software
+- GovTech / regulatory platforms
+- API-driven frontend engineering
+- Cross-platform product development
+
+---
+
+## 📫 Connect With Me
+
+- Portfolio: [https://chukusuccess.vercel.app](https://chukusuccess.vercel.app)
+- LinkedIn: [https://linkedin.com/in/success-chuku-b58724236](https://linkedin.com/in/success-chuku-b58724236)
+- GitHub: [https://github.com/chukusuccess](https://github.com/chukusuccess)
+- Email: [successchuku5@gmail.com](mailto:successchuku5@gmail.com)
+
+---
+
+## ⚡ Quick Summary
+
+```txt
+Frontend & Mobile Software Engineer
+6+ years experience
+Next.js | React | TypeScript | React Native Expo
+Remote-first
+Open to international full-time and contract roles
